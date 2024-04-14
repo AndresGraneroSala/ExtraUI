@@ -1,0 +1,12 @@
+UI
+-input text con pesos (se puede en un excel)
+-selector de fecha y hora
+*selector de color
+-control de desplazamiento horizontal/vertical
+-menú circular
+-menú configuración
+-ventana de notas
+-notificaciones emergentes
+-mapa
+-cronómetro
+-bento
