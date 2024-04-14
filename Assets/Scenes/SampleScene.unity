@@ -326,7 +326,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07435e933c962434e934a9308f358c82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultColor: {r: 0.5248906, g: 0.9622642, b: 0.38581347, a: 1}
+  defaultColor: {r: 0.9339623, g: 0.3768862, b: 0.3480331, a: 1}
   changedColor:
     m_PersistentCalls:
       m_Calls:
